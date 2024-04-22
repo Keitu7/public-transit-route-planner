@@ -1,5 +1,6 @@
 import React from 'react';
 import {useParams, Link} from 'react-router-dom';
+import { routesData} from "../src/Assignment 1 mock data.json";
 
 function RouteInformation() {
     const {id, title, duration, stops, price, description }  = useParams();
