@@ -2,7 +2,7 @@ import React from 'react';
 
 function TicketPurchase() {
 
-//the cartSystem
+//the cartSystem//
 
     return ( 
         <>
